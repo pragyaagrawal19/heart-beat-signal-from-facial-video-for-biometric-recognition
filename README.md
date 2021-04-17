@@ -11,7 +11,7 @@ the body, which is known as a heartbeat signal. It can be accomplished by estima
 Rate (HR) from face videos acquired using web-cams, smart-phone cameras or surveillance
 cameras, and then Remote PPG (rPPG) method can be used to estimate PPG signal. We have
 extracted PPG signals based on head motions caused by tremors of blood flowing through
-arteries as stated in [1]. From PPG signals we have extracted time domain and frequency domain
+arteries. From PPG signals we have extracted time domain and frequency domain
 features. Based on these features we have built an authentication system for biometric
 recognition. \
 More detail can be seen from following report.
