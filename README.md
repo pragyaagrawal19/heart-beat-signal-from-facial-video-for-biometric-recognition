@@ -16,3 +16,25 @@ arteries as stated in [1]. From PPG signals we have extracted time domain and fr
 features. Based on these features we have built an authentication system for biometric
 recognition. \
 More details can be found in  [report.pdf](https://github.com/pragyaagrawal19/heart-beat-signal-from-facial-video-for-biometric-recognition/files/6328850/report.pdf)
+ # This repository contain two parts:
+ * PPG signal generation from facial video using principle component Analysis, which is implemented in matlab and some modules in python. (main.m is base module)
+   # This part contain follwing modules-
+   * main.m
+   * averagePulse.m
+   *  cubicSplineInterp.m
+   *  faceca.m
+   *  Feature_selection.m
+   *  featureTraking.m
+   *  gtAnalysis.m
+   *  optical_flow.m
+   *  processData.m
+   *  read_video.m
+   *  removableUnstable.m
+   *  roi.m
+   *  slide_image.m
+   *  temporalFiltering.m
+   *  SignalAnalyser.py
+   *  centerRows
+   *  PCA
+   
+    
