@@ -15,7 +15,7 @@ extracted PPG signals based on head motions caused by tremors of blood flowing t
 arteries as stated in [1]. From PPG signals we have extracted time domain and frequency domain
 features. Based on these features we have built an authentication system for biometric
 recognition. \
-More details can be found in  [report.pdf](https://github.com/pragyaagrawal19/heart-beat-signal-from-facial-video-for-biometric-recognition/files/6328850/report.pdf)
+More details can be found in  [report.pdf](https://github.com/pragyaagrawal19/heart-beat-signal-from-facial-video-for-biometric-recognition/files/6328850/report.pdf) \
 This repository contain two parts:
  # First part: PPG signal generation from facial video
   PPG signal generation from facial video using principle component Analysis, which is implemented in matlab and some modules in python. (main.m is base module)
