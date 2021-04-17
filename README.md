@@ -18,8 +18,8 @@ recognition. \
 More details can be found in  [report.pdf](https://github.com/pragyaagrawal19/heart-beat-signal-from-facial-video-for-biometric-recognition/files/6328850/report.pdf)
 This repository contain two parts:
  # First part: PPG signal generation from facial video
- * PPG signal generation from facial video using principle component Analysis, which is implemented in matlab and some modules in python. (main.m is base module)
-   # This part contain follwing modules-
+  PPG signal generation from facial video using principle component Analysis, which is implemented in matlab and some modules in python. (main.m is base module)
+   This part contain follwing modules-
    * main.m
    * averagePulse.m
    *  cubicSplineInterp.m
@@ -37,7 +37,7 @@ This repository contain two parts:
    *  SignalAnalyser.py
    *  centerRows
    *  PCA
-   # True_ppg_random1 is ppg signal calculated 
+   True_ppg_random1 is ppg signal calculated 
  # Second part: biometric recognition using facial video: 
     It is implemented in python. It contains following modules:
     * init.py
